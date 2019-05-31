@@ -1,0 +1,11 @@
+/Users/Tyler/Projects/StarterHelloWorld/bin/Debug/netcoreapp2.1/StarterHelloWorld.deps.json
+/Users/Tyler/Projects/StarterHelloWorld/bin/Debug/netcoreapp2.1/StarterHelloWorld.runtimeconfig.json
+/Users/Tyler/Projects/StarterHelloWorld/bin/Debug/netcoreapp2.1/StarterHelloWorld.runtimeconfig.dev.json
+/Users/Tyler/Projects/StarterHelloWorld/bin/Debug/netcoreapp2.1/StarterHelloWorld.dll
+/Users/Tyler/Projects/StarterHelloWorld/bin/Debug/netcoreapp2.1/StarterHelloWorld.pdb
+/Users/Tyler/Projects/StarterHelloWorld/obj/Debug/netcoreapp2.1/StarterHelloWorld.csprojAssemblyReference.cache
+/Users/Tyler/Projects/StarterHelloWorld/obj/Debug/netcoreapp2.1/StarterHelloWorld.csproj.CoreCompileInputs.cache
+/Users/Tyler/Projects/StarterHelloWorld/obj/Debug/netcoreapp2.1/StarterHelloWorld.AssemblyInfoInputs.cache
+/Users/Tyler/Projects/StarterHelloWorld/obj/Debug/netcoreapp2.1/StarterHelloWorld.AssemblyInfo.cs
+/Users/Tyler/Projects/StarterHelloWorld/obj/Debug/netcoreapp2.1/StarterHelloWorld.dll
+/Users/Tyler/Projects/StarterHelloWorld/obj/Debug/netcoreapp2.1/StarterHelloWorld.pdb
